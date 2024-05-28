@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dannyta47
+- 👋 Hi, I’m @dannyta47 (Danny Ta)
 - 👀 I’m interested in data science, sports, community outreach, education, finance.
 - 🌱 I’m currently looking for full-time roles in data analytics!
 - 📫 How to reach me dta@ncsu.edu
