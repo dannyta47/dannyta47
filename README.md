@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dannyta47 (Danny Ta)
 - 👀 I’m interested in data science, sports, community outreach, education, finance.
 - 🌱 I’m currently looking for full-time roles in data analytics!
-- 📫 How to reach me dta@ncsu.edu
+- 📫 How to reach me: tadanny56@gmail.com 
 - ⚡ Fun fact: I'm a huge fan of Manchester United!! Go Red Devils!
 
 <!---
